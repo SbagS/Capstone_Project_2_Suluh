@@ -1,1 +1,1 @@
-# Capstone_Project_2_Suluh
+# Capstone Project 2 - Suluh
