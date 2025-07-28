@@ -37,4 +37,7 @@ Bagian ini berisi penjelasan dari kolom-kolom yang terdapat di dataset, mengiden
 Saya juga melakukan visualisasi melalui dashboard dengan link berikut:
 https://public.tableau.com/app/profile/suluh.bagaspati/viz/SupermarketKeyCustomerAnalysis/SupermarketKeyCustomer
 
+<img width="1824" height="1199" alt="Supermarket Key Customer" src="https://github.com/user-attachments/assets/60cb0334-944d-461e-b26a-0494d08f6f38" />
+
+<img width="1824" height="1199" alt="Key Customer Shopping Habits" src="https://github.com/user-attachments/assets/8f43f289-4161-4d72-90ee-6df376c72804" />
 
